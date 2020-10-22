@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="center">
   <code><img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='80"'>
   <img src='https://www.kotlindevelopment.com/assets/img/kotlin-development-logo.svg?v=bcf07ce317' width='72"'>
-  <img src='https://golang.org/lib/godoc/images/footer-gopher.jpg' width='80"'>
+  <img src='https://raw.githubusercontent.com/jotyy/jotyy/main/img/golang_fire.png' width='110"'>
   </p>
 </code>
 
