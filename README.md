@@ -50,6 +50,6 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jotyy&repo=coroutines-retrofit-example" height="148" width="399"/>
 </a>
 
-<a href="https://github.com/jotyy/go-blog">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=jotyy&repo=go-blog" height="148" width="399"/>
+<a href="https://github.com/jotyy/hiltpractice">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=jotyy&repo=HiltPractice" height="148" width="399"/>
 </a>
