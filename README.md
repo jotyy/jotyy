@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋! I'm Jotyy.
 
 - 🌱 I’m a lifelong learner/developer.
 - 💻 Aim to be a full stack engineer.
@@ -31,25 +31,12 @@ Here are some ideas to get you started:
    <img src="https://profile-counter.glitch.me/jotyy/count.svg" />
   </p>
 
-[![ReactiveX](https://img.shields.io/badge/reactiveX-%23E4405F.svg?&style=for-the-badge)](https://github.com/ReactiveX/)
-[![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://developer.android.com/)
+[![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")](https://developer.android.com/)
 [![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/jotyy)
 [![Dart](https://img.shields.io/badge/dart-%231DA1F2.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages)
 [![Golang](https://img.shields.io/badge/golang-29BEB0?&style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+[![Functional](https://img.shields.io/badge/functional-%237433FF.svg?&style=for-the-badge&logoColor=white)]
 
-[![jotyy's github stats](https://github-readme-stats.vercel.app/api?username=jotyy&show_icons=true&line_height=21&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800)](https://github.com/jotyy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotyy&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800)](https://github.com/jotyy)
-
-<!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jotyy&repo=coroutines-retrofit-example&theme=vue)](https://github.com/jotyy/coroutines-retrofit-example)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jotyy&repo=coroutines-retrofit-example&theme=vue)](https://github.com/jotyy/coroutines-retrofit-example)
--->
-
-<a href="https://github.com/jotyy/coroutines-retrofit-example">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jotyy&repo=coroutines-retrofit-example" height="148" width="399"/>
-</a>
-
-<a href="https://github.com/jotyy/hiltpractice">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=jotyy&repo=HiltPractice" height="148" width="399"/>
-</a>
+[![jotyy's github stats](https://github-readme-stats.vercel.app/api?username=jotyy&show_icons=true&line_height=21&show_icons=true&theme=shades-of-purple&count_private=true&hide=issues&cache_seconds=1800)](https://github.com/jotyy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotyy&hide=html,css&show_icons=true&theme=shades-of-purple&layout=compact&cache_seconds=1800)](https://github.com/jotyy)
