@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/jotyy)
 [![Dart](https://img.shields.io/badge/dart-%231DA1F2.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages)
 [![Golang](https://img.shields.io/badge/golang-29BEB0?&style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-[![Functional](https://img.shields.io/badge/functional-%237433FF.svg?&style=for-the-badge&logoColor=white)]
+![Functional](https://img.shields.io/badge/functional-%237433FF.svg?&style=for-the-badge&logoColor=white)
 
-[![jotyy's github stats](https://github-readme-stats.vercel.app/api?username=jotyy&show_icons=true&line_height=21&show_icons=true&theme=shades-of-purple&count_private=true&hide=issues&cache_seconds=1800)](https://github.com/jotyy)
+[![jotyy's github stats](https://github-readme-stats.vercel.app/api?username=jotyy&show_icons=true&line_height=21&show_icons=true&theme=shades-of-purple&count_private=true&hide=issues,contribs&cache_seconds=1800)](https://github.com/jotyy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotyy&hide=html,css&show_icons=true&theme=shades-of-purple&layout=compact&cache_seconds=1800)](https://github.com/jotyy)
