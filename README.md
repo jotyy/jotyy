@@ -1,8 +1,9 @@
 ### Hi there 👋! I'm Jotyy.
 
 - 🌱 I’m a lifelong learner.
-- 🎯 I'm focus on Kotlin, Android, Devops..
+- 🎯 I'm focus on Kotlin, Android, Nodejs, Devops..
 - 💻 Aim to be a full stack engineer.
+- 🔭 I’m currently working on Blockchain.
 
 
 <!--
