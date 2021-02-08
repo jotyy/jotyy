@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="center">
   <code>
     <img src='https://www.kotlindevelopment.com/assets/img/kotlin-development-logo.svg?v=bcf07ce317' width='72"'>
-    <img src='https://raw.githubusercontent.com/jotyy/jotyy/main/img/gopher.png' width='110"'>
+    <img src='https://raw.githubusercontent.com/jotyy/jotyy/main/img/gopher.svg' width='110"'>
     <img src='https://rustacean.net/assets/rustacean-flat-gesture.svg' width='100"'>
   </p>
 
