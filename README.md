@@ -22,18 +22,17 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <code>
     <img src='https://www.kotlindevelopment.com/assets/img/kotlin-development-logo.svg?v=bcf07ce317' width='72"'>
-    <img src='https://raw.githubusercontent.com/jotyy/jotyy/main/img/golang_fire.png' width='110"'>
+    <img src='https://raw.githubusercontent.com/jotyy/jotyy/main/img/gopher.png' width='110"'>
     <img src='https://rustacean.net/assets/rustacean-flat-gesture.svg' width='100"'>
   </p>
-</code>
+
+
 
 <p align="center">
    <code>Visitor count</code>
    <img src="https://profile-counter.glitch.me/jotyy/count.svg" />
 </p>
-
 [![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")](https://developer.android.com/)
 [![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/jotyy)
