@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Remix**
 
-- 👨‍💻 All of my projects are available at [jotyy.site](jotyy.site)
+- 👨‍💻 All of my projects are available at [https://jotyy.site](jotyy.site)
 
 - 📫 How to reach me **jotyy318@gmail.com**
 
