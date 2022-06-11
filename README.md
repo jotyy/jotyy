@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jotyy&show_icons=true&locale=en&layout=compact" alt="jotyy" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jotyy&show_icons=true&locale=en" alt="jotyy" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jotyy&show_icons=true&locale=en&margin-h=10" alt="jotyy" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jotyy" alt="jotyy" /></a> </p>
