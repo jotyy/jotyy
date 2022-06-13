@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **kubernetes, argo-cd**
   
-- 👨‍💻 All of my projects are available at [jotyy.site](jotyy.site)
+- 👨‍💻 All of my projects are available at [jotyy.site](https://jotyy.site)
   
 - 💬 Ask me about **react, Devops and blockchain**
   
