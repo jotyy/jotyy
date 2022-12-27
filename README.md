@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joshua Lee</h1>  
-<h3 align="center">A Fullstack developer</h3>
+<h3 align="center">Fullstack developer</h3>
 
-- 🌱 I’m currently learning **kubernetes, argo-cd**
+- 🌱 I’m currently learning **low-code**
   
 - 👨‍💻 All of my projects are available at [jotyy.site](https://jotyy.site)
   
-- 💬 Ask me about **react, Devops and blockchain**
+- 💬 Ask me about **React, NodeJS, Devops and Blockchain**
   
 - 📫 How to reach me **jotyy318@gmail.com**
   
