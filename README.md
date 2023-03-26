@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **low-code**
   
-- 👨‍💻 All of my projects are available at [jotyy.site](https://jotyy.site)
+- 👨‍💻 All of my projects are available at [jotyy.vercel.app](https://jotyy.vercel.app)
   
 - 💬 Ask me about **React, NodeJS, Devops and Blockchain**
   
