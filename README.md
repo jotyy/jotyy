@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joshua Lee</h1>  
 <h3 align="center">Fullstack developer</h3>
 
-- 🌱 I’m currently learning **low-code**
+- 🌱 I’m currently learning **System Design**
   
-- 👨‍💻 All of my projects are available at [jotyy.vercel.app](https://jotyy.vercel.app)
+- 👨‍💻 All of my details are available at [jotyy.vercel.app](https://jotyy.vercel.app)
   
-- 💬 Ask me about **React, NodeJS, Devops and Blockchain**
+- 💬 Ask me about **React, NodeJS, Devops and BlockChain**
   
 - 📫 How to reach me **jotyy318@gmail.com**
   
