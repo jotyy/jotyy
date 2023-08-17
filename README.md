@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **System Design**
   
-- 👨‍💻 All of my details are available at [jotyy.vercel.app](https://blog.cppo.asia/)
+- 👨‍💻 All of my details are available at [jotyy.vercel.app](https://jotyy.vercel.app/)
   
 - 💬 Ask me about **React, NodeJS, Devops and BlockChain**
   
