@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Joshua Lee</h1>  
 <h3 align="center">Fullstack developer</h3>
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **Serverless**
   
 - 👨‍💻 All of my details are available at [jotyy.vercel.app](https://jotyy.vercel.app/)
   
-- 💬 Ask me about **React, NodeJS, Devops and BlockChain**
+- 💬 Ask me about **React, NodeJS, AWS, Devops and BlockChain**
   
 - 📫 How to reach me **jotyy318@gmail.com**
   
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jotyy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jotyy3) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jotyy3) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jotyy3) 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
