@@ -2,10 +2,8 @@
 <h3 align="center">Fullstack developer</h3>
 
 - 🌱 I’m currently learning **Serverless**
-  
-- 👨‍💻 All of my details are available at [jotyy.vercel.app](https://jotyy.vercel.app/)
-  
-- 💬 Ask me about **React, NodeJS, AWS, Devops and BlockChain**
+    
+- 💬 Ask me about **React, NodeJS, AWS, Devops and AI**
   
 - 📫 How to reach me **jotyy318@gmail.com**
   
